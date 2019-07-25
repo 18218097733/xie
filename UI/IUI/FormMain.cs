@@ -61,7 +61,7 @@ namespace UI.IUI
             x = this.Width;
             y = this.Height;
             setTag(this);
-            setTag(this);
+
         }
 
         // 设备对象
